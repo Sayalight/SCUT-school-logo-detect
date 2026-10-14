@@ -1,0 +1,1 @@
+# SCUT-school-logo-detect
