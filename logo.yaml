@@ -1,0 +1,6 @@
+﻿path: D:/school_logo_detect/datasets/logo
+train: images/train
+val: images/val
+
+names:
+  0: school_logo
